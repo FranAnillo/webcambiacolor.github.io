@@ -232,3 +232,8 @@ main {
   color: var(--clr-white);
   background: var(--clr-black);
 }
+
+.text-footer{
+  color: black;
+  margin-bottom: 0px;
+}
